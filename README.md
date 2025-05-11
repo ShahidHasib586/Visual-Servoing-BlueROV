@@ -1,8 +1,10 @@
 # Project Contributor
-**Mahmoud Aboelrayat
-Mohamed Magdy Atta
-Shahid Ahamed hasib
-Mohamed Alsisi**
+
+- **Mahmoud Aboelrayat**
+- **Mohamed Magdy Atta**
+- **Shahid Ahamed Hasib**
+- **Mohamed Alsisi**
+
 # Implementation of Image-Based Visual Servoing Control
 
 ## Overview
